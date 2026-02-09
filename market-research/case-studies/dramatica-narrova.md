@@ -1,6 +1,6 @@
 # Case Study: Dramatica Narrova & Eternal Spring (Storytelling Engine)
 
-![eternal-spring](../images/eternal-spring.jpg)
+![eternal-spring](../images/narrova-eternal-spring.jpg)
 
 **Title:** Dramatica Narrova & Eternal Spring - 구조적 서사 이론의 AI 확장
 **Industry:** Film / Animation / Scriptwriting
