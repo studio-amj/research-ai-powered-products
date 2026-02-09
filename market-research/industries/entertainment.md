@@ -88,20 +88,6 @@
 - **Ubisoft:** 오픈월드 게임의 NPC 군중 대사(Barks)를 자동으로 생성하는 **'Ghostwriter'** 도구를 개발하여 작가들의 단순 반복 업무를 줄이고 창의적 작업에 집중하도록 지원.
   - **👉 상세 분석:** [Ubisoft Ghostwriter Case Study](../case-studies/ubisoft-ghostwriter.md) (AI 보조 저작 도구의 설계 철학)
 
-## Key Players & Business Landscape (Business Status)
-
-이 시장의 주요 플레이어는 "전통의 강자(Legacy)"와 "AI 혁신 기업(Disruptor)"으로 나뉜다.
-
-### 1) Write Brothers Inc. (Dramatica) - The Cash Cow
-- **Type:** 비상장(Private), 1982년 설립.
-- **Business Model:** 라이선스 판매(One-time License, ~$200).
-- **Status:** 아카데미 기술공로상을 수상한 유일한 시나리오 SW 기업으로, 헐리우드 표준(Movie Magic Screenwriter)을 보유하여 안정적인 수익 창출.
-
-### 2) Narrative First (Narrova/Subtxt) - The High Growth Startup
-- **Type:** 비상장(Private), Dramatica 이론 전문가(Jim Hull) 주도.
-- **Business Model:** SaaS 구독(Monthly, $25~$45) + API Licensing (2025 런칭).
-- **Status:** 생성형 AI 붐과 함께 급성장 중. 최근 **'Subtxt API'**를 런칭하며 B2B(게임 스튜디오, 앱 개발사)로 수익 모델을 확장하는 스케일업(Scale-up) 단계.
-
 ## Risks, Constraints, and Governance
 
 - 저작권/윤리: 생성형 콘텐츠의 저작권/라이선스, 학습데이터 출처, 딥페이크 악용은 시장 도입의 핵심 제약으로 반복 언급된다.[^mnm-media-2025]
