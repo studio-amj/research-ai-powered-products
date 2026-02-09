@@ -1,5 +1,7 @@
 # Case Study: Naver Webtoon (Comics / Webtoon)
 
+![naver webtoon ai painter](../images/naver-webtoon-ai-painter.png)
+
 **Title:** Naver Webtoon AI Painter: 아마추어 작가를 위한 채색 자동화
 **Industry:** Webtoon / Digital Comics
 **Subject:** 딥러닝 기반의 자동 채색 도구를 통해 웹툰 창작의 진입 장벽을 낮추다

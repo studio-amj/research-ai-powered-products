@@ -44,17 +44,16 @@
 ## Where AI Creates Value (Value Chain)
 
 ### A) 고객향 디지털 프로덕트
-
 - 개인화 추천/탐색: 시청/청취/플레이 로그 기반 추천, 검색 보강, 카탈로그/콘텐츠 이해.
 - 참여/리텐션: 요약, 하이라이트 생성, 개인화 트레일러/썸네일.
 - 광고/수익화: 타게팅, 크리에이티브 변형(버전/언어/세그먼트별), 캠페인 최적화.
 - 신뢰/안전: 댓글/채팅 모더레이션, 불법/유해 콘텐츠 탐지, 딥페이크 탐지.
 
 ### B) 사내 내재화(내부 툴/워크플로우)
-
-- 제작/후반 자동화: 전사, 자막 타임코드, 샷/씬 분할, 메타데이터 태깅/인덱싱.[^mnm-media-2025]
+- 스토리텔링/스크립트 구조화: AI Co-pilot을 통한 시나리오 구조 분석(Dramatica/Narrova), 캐릭터 일관성 체크, 공동 집필(Co-writing).
+- 제작/후반 자동화: 전사, 자막 타임코드, 샷/씬 분할, 메타데이터 태깅/인덱싱, 프리비즈 자동 생성.[^mnm-media-2025]
 - 로컬라이제이션: 번역/더빙/립싱크 보조, QA 자동화(추가 근거 수집/반영 예정).
-- 편성/운영: 콘텐츠 성과 예측, 프로그램 타임테이블 최적화.
+- 편성/운영: 콘텐츠 성과 예측(Greenlighting support), 프로그램 타임테이블 최적화.
 - 지식/컴플라이언스: 내부 문서/계약/권리 정보 Q&A, 콘텐츠 권리·라이선스 준수 체크(추가 근거 수집/반영 예정).
 
 ## Implementation Patterns: In-House vs Big-Tech API
@@ -77,16 +76,31 @@
 
 ### 내부 워크플로우 자동화/최적화 사례(근거 범위 내)
 
+- **Lionsgate x Runway:** <존 윅> 등 자사 IP 아카이브를 학습시킨 맞춤형 비디오 모델을 구축하여, 프리비즈 및 스토리보드 제작 공정을 혁신.
+  - **👉 상세 분석:** [Lionsgate x Runway Case Study](../case-studies/lionsgate-runway.md) (스튜디오 아카이브 기반 커스텀 모델)
+
+- **Eternal Spring (with Dramatica Narrova):** 복잡한 다큐멘터리 서사를 AI 기반 구조 이론(Dramatica)을 통해 체계화하여 아카데미상 출품작으로 완성.
+  - **👉 상세 분석:** [Dramatica Narrova Case Study](../case-studies/dramatica-narrova.md) (구조적 서사 엔진의 활용)
+
+- **DeepMind Dramatron:** 전문 작가와 협업하여 로그라인부터 씬 대사까지 계층적(Hierarchical)으로 대본을 공동 집필하는 AI 도구 개발.
+  - **👉 상세 분석:** [DeepMind Dramatron Case Study](../case-studies/deepmind-dramatron.md) (Co-Writing & Human-in-the-Loop)
+
 - **Ubisoft:** 오픈월드 게임의 NPC 군중 대사(Barks)를 자동으로 생성하는 **'Ghostwriter'** 도구를 개발하여 작가들의 단순 반복 업무를 줄이고 창의적 작업에 집중하도록 지원.
   - **👉 상세 분석:** [Ubisoft Ghostwriter Case Study](../case-studies/ubisoft-ghostwriter.md) (AI 보조 저작 도구의 설계 철학)
 
-- **Sony Pictures Imageworks:** 영화 *<스파이더맨: 어크로스 더 유니버스>*에서 아티스트의 펜 선 스타일을 학습한 머신러닝 모델(**ML Ink Line**)을 사용하여 3D 렌더링 위에 2D 코믹북 스타일을 구현.
-  - **👉 상세 분석:** [Sony Imageworks Case Study](../case-studies/sony-imageworks.md) (3D-to-2D 스타일 트랜스퍼 파이프라인)
+## Key Players & Business Landscape (Business Status)
 
-- **Naver Webtoon:** 딥러닝 기반 자동 채색 도구 **'Webtoon AI Painter'**를 통해 아마추어 작가들의 채색 노동 시간을 30~50% 단축시키고 창작 진입 장벽을 낮춤.
-  - **👉 상세 분석:** [Naver Webtoon Case Study](../case-studies/naver-webtoon.md) (웹툰 데이터 학습 및 레이어 분리 기술)
+이 시장의 주요 플레이어는 "전통의 강자(Legacy)"와 "AI 혁신 기업(Disruptor)"으로 나뉜다.
 
-- **BBC:** AI/ML을 콘텐츠 매니지먼트 워크플로우 최적화/자동화에 적용하려는 시도/프로젝트를 진행했다고 언급됨(구체 구현이 인하우스 모델인지/외부 API인지까지는 본 자료만으로 단정 불가).[^gvr-mne-2024]
+### 1) Write Brothers Inc. (Dramatica) - The Cash Cow
+- **Type:** 비상장(Private), 1982년 설립.
+- **Business Model:** 라이선스 판매(One-time License, ~$200).
+- **Status:** 아카데미 기술공로상을 수상한 유일한 시나리오 SW 기업으로, 헐리우드 표준(Movie Magic Screenwriter)을 보유하여 안정적인 수익 창출.
+
+### 2) Narrative First (Narrova/Subtxt) - The High Growth Startup
+- **Type:** 비상장(Private), Dramatica 이론 전문가(Jim Hull) 주도.
+- **Business Model:** SaaS 구독(Monthly, $25~$45) + API Licensing (2025 런칭).
+- **Status:** 생성형 AI 붐과 함께 급성장 중. 최근 **'Subtxt API'**를 런칭하며 B2B(게임 스튜디오, 앱 개발사)로 수익 모델을 확장하는 스케일업(Scale-up) 단계.
 
 ## Risks, Constraints, and Governance
 

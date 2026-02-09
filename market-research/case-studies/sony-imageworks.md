@@ -1,5 +1,7 @@
 # Case Study: Sony Pictures Imageworks (Animation / Film)
 
+![spider-verse](../images/spider-verse.jpg)
+
 **Title:** Spider-Man: Across the Spider-Verse의 머신러닝 잉크 라인 (ML Ink Line)
 **Industry:** Animation / Film Production
 **Subject:** 수작업의 감성을 유지하면서 대규모 3D 렌더링에 2D 펜 선을 자동 생성하는 ML 파이프라인

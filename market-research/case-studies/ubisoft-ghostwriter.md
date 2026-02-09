@@ -1,5 +1,7 @@
 # Case Study: Ubisoft (Game Development)
 
+[![ghostwriter](../images/ghostwriter.jpg)](https://www.youtube.com/watch?v=XxQoN3PFiKA)
+
 **Title:** Ubisoft Ghostwriter: 게임 작가를 위한 AI 대사 생성 도구
 **Industry:** Game Development
 **Subject:** 오픈월드 게임의 방대한 NPC 군중 대사(Barks) 작성 자동화 및 효율화
