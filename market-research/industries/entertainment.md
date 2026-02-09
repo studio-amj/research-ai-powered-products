@@ -71,13 +71,22 @@
 
 ### 빅테크 API/클라우드 협업이 명확한 사례
 
-- Mediapro x Google Cloud: 미디어 특화 GenAI 솔루션/크리에이티비티 랩(이미지/비디오 생성, 멀티모달 태깅 등) 협업.[^mnm-media-2025]
-- Banijay Entertainment x AWS(+BASE): 클라우드/AI 기술을 활용한 제작/유통/오디언스 인게이지먼트 혁신 협업.[^mnm-media-2025]
-- OpenAI x Guardian Media Group: 콘텐츠 파트너십(저널리즘 콘텐츠의 AI 응답 품질/신뢰성 강화, IP/윤리 이슈를 명시적으로 다룸).[^mnm-media-2025]
+- **Mediapro x Google Cloud:** 미디어 특화 GenAI 솔루션/크리에이티비티 랩(이미지/비디오 생성, 멀티모달 태깅 등) 협업.[^mnm-media-2025]
+- **Banijay Entertainment x AWS(+BASE):** 클라우드/AI 기술을 활용한 제작/유통/오디언스 인게이지먼트 혁신 협업.[^mnm-media-2025]
+- **OpenAI x Guardian Media Group:** 콘텐츠 파트너십(저널리즘 콘텐츠의 AI 응답 품질/신뢰성 강화, IP/윤리 이슈를 명시적으로 다룸).[^mnm-media-2025]
 
 ### 내부 워크플로우 자동화/최적화 사례(근거 범위 내)
 
-- BBC가 AI/ML을 콘텐츠 매니지먼트 워크플로우 최적화/자동화에 적용하려는 시도/프로젝트를 진행했다고 언급됨(구체 구현이 인하우스 모델인지/외부 API인지까지는 본 자료만으로 단정 불가).[^gvr-mne-2024]
+- **Ubisoft:** 오픈월드 게임의 NPC 군중 대사(Barks)를 자동으로 생성하는 **'Ghostwriter'** 도구를 개발하여 작가들의 단순 반복 업무를 줄이고 창의적 작업에 집중하도록 지원.
+  - **👉 상세 분석:** [Ubisoft Ghostwriter Case Study](../case-studies/ubisoft-ghostwriter.md) (AI 보조 저작 도구의 설계 철학)
+
+- **Sony Pictures Imageworks:** 영화 *<스파이더맨: 어크로스 더 유니버스>*에서 아티스트의 펜 선 스타일을 학습한 머신러닝 모델(**ML Ink Line**)을 사용하여 3D 렌더링 위에 2D 코믹북 스타일을 구현.
+  - **👉 상세 분석:** [Sony Imageworks Case Study](../case-studies/sony-imageworks.md) (3D-to-2D 스타일 트랜스퍼 파이프라인)
+
+- **Naver Webtoon:** 딥러닝 기반 자동 채색 도구 **'Webtoon AI Painter'**를 통해 아마추어 작가들의 채색 노동 시간을 30~50% 단축시키고 창작 진입 장벽을 낮춤.
+  - **👉 상세 분석:** [Naver Webtoon Case Study](../case-studies/naver-webtoon.md) (웹툰 데이터 학습 및 레이어 분리 기술)
+
+- **BBC:** AI/ML을 콘텐츠 매니지먼트 워크플로우 최적화/자동화에 적용하려는 시도/프로젝트를 진행했다고 언급됨(구체 구현이 인하우스 모델인지/외부 API인지까지는 본 자료만으로 단정 불가).[^gvr-mne-2024]
 
 ## Risks, Constraints, and Governance
 

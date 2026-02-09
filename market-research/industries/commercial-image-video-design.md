@@ -65,10 +65,16 @@
 
 아래 사례는 "공개된 협업/제품 발표" 수준 근거를 기반으로 하며, 각 기업이 모델을 어디까지 인하우스로 운영하는지는 자료 범위 내에서만 표기한다.
 
-- Google x WPP: 마케팅 영역의 AI 고도화를 위한 파트너십(크리에이티브/미디어 서비스 결합) 언급.[^mnm-img-2024]
-- Microsoft x Adobe: Microsoft 365 앱에 생성형 AI 기능을 통합해 마케터 워크플로우 강화(통합형 제품 전략).[^mnm-img-2024]
-- AWS: Titan Image Generator 소개(AWS re:Invent)로 엔터프라이즈 이미지 생성 기능 제공.[^mnm-img-2024]
-- Adobe x NVIDIA: 생성형 AI 모델 협업 및 콘텐츠 투명성(콘텐츠 크리덴셜) 관련 언급.[^mnm-img-2024]
+- **Sony Pictures Imageworks:** 애니메이션 제작 파이프라인에 머신러닝을 도입하여, *<스파이더맨: 어크로스 더 유니버스>*의 독창적인 2D 펜 선 스타일을 대규모로 구현.
+  - **👉 상세 분석:** [Sony Imageworks Case Study](../case-studies/sony-imageworks.md) (ML Ink Line 툴의 기술적 구현)
+
+- **Naver Webtoon:** 웹툰 창작자를 위한 자동 채색 도구 **'AI Painter'**를 상용화하여 채색 시간을 획기적으로 단축.
+  - **👉 상세 분석:** [Naver Webtoon Case Study](../case-studies/naver-webtoon.md)
+
+- **Google x WPP:** 마케팅 영역의 AI 고도화를 위한 파트너십(크리에이티브/미디어 서비스 결합) 언급.[^mnm-img-2024]
+- **Microsoft x Adobe:** Microsoft 365 앱에 생성형 AI 기능을 통합해 마케터 워크플로우 강화(통합형 제품 전략).[^mnm-img-2024]
+- **AWS:** Titan Image Generator 소개(AWS re:Invent)로 엔터프라이즈 이미지 생성 기능 제공.[^mnm-img-2024]
+- **Adobe x NVIDIA:** 생성형 AI 모델 협업 및 콘텐츠 투명성(콘텐츠 크리덴셜) 관련 언급.[^mnm-img-2024]
 
 ## Risks, Constraints, and Governance (특히 중요)
 
