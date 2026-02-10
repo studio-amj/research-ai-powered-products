@@ -11,15 +11,16 @@ Gwin Lim @ **STUDIO AMJ**
 
 ---
 
-# `market-research` Overview
+# [market-research](/market-research/index.md) Overview
+
 - 산업 grouping
   - A: 고규제/고보안 산업, B: 운영/물리 산업, C: 디지털/크리에이티브 산업
 - Group C 톺아보기:
-  - Entertainment
-  - S/W IT dev
-  - Education
-  - Commercial art production
-  - Case studies: naver, sony, ubisoft, dramatica, dramatron
+  - [Commercial art production](/market-research/industries/commercial-image-video-design.md)
+  - [Education](/market-research/industries/education.md)
+  - [Entertainment](/market-research/industries/entertainment.md)
+  - [S/W IT dev](/market-research/industries/software-it-devtools.md)
+  - Case studies: [naver](/market-research/case-studies/naver-webtoon.md), [sony](/market-research/case-studies/sony-imageworks.md), [ubisoft](/market-research/case-studies/ubisoft-ghostwriter.md), [dramatica](/market-research/case-studies/dramatica-narrova.md), [dramatron](/market-research/case-studies/deepmind-dramatron.md)
 
 ---
 

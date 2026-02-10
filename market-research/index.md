@@ -5,36 +5,36 @@
 
 ## TOC
 
-- [Overview](./overview.md)
+- [Overview](/market-research/overview.md)
 - Summaries
-  - [Summary](./summary-report.md)
-  - [Group C Summary](./summary-group-c.md)
+  - [Summary](/market-research/summary-report.md)
+  - [Group C Summary](/market-research/summary-group-c.md)
 - Industries
   - Group A: 고규제/고보안 산업
-    - [Cyber Security](./industries/cybersecurity.md)
-    - [Finance](./industries/finance-insurance.md)
+    - [Cyber Security](/market-research/industries/cybersecurity.md)
+    - [Finance](/market-research/industries/finance-insurance.md)
   - Group B: 운영/물리 산업
-    - [CS](./industries/customer-service-contact-center.md)
-    - [Health](./industries/healthcare-pharma.md)
-    - [Logistics](./industries/logistics-supply-chain.md)
-    - [Manufacturing](./industries/manufacturing-industrial.md)
-    - [Retail](./industries/retail-ecommerce.md)
+    - [CS](/market-research/industries/customer-service-contact-center.md)
+    - [Health](/market-research/industries/healthcare-pharma.md)
+    - [Logistics](/market-research/industries/logistics-supply-chain.md)
+    - [Manufacturing](/market-research/industries/manufacturing-industrial.md)
+    - [Retail](/market-research/industries/retail-ecommerce.md)
   - Group C: 디지털/크리에이티브 산업
-    - [Commercial Art](./industries/commercial-image-video-design.md)
-    - [Education](./industries/education.md)
-    - [Entertainment](./industries/entertainment.md)
-    - [S/W ID Dev](./industries/software-it-devtools.md)
+    - [Commercial Art](/market-research/industries/commercial-image-video-design.md)
+    - [Education](/market-research/industries/education.md)
+    - [Entertainment](/market-research/industries/entertainment.md)
+    - [S/W ID Dev](/market-research/industries/software-it-devtools.md)
 - Case studies
   - Group A: 고규제/고보안 산업
-    - [Bloomberg](./case-studies/bloomberggpt.md)
+    - [Bloomberg](/market-research/case-studies/bloomberggpt.md)
   - Group B: 운영/물리 산업
-    - [Klarna](./case-studies/klarna.md)
-    - [Maersk](./case-studies/maersk.md)
-    - [Walmart](./case-studies/walmart.md)
+    - [Klarna](/market-research/case-studies/klarna.md)
+    - [Maersk](/market-research/case-studies/maersk.md)
+    - [Walmart](/market-research/case-studies/walmart.md)
   - Group C: 디지털/크리에이티브 산업
-    - [Dramatron](./case-studies/deepmind-dramatron.md)
-    - [Dramatica - Narrova](./case-studies/dramatica-narrova.md)
-    - [Liongate - Runway](./case-studies/lionsgate-runway.md)
-    - [Naver - Webtoon](./case-studies/naver-webtoon.md)
-    - [Sony - Imageworks](./case-studies/sony-imageworks.md)
-    - [Ubisoft - Ghostwriter](./case-studies/ubisoft-ghostwriter.md)
+    - [Dramatron](/market-research/case-studies/deepmind-dramatron.md)
+    - [Dramatica - Narrova](/market-research/case-studies/dramatica-narrova.md)
+    - [Liongate - Runway](/market-research/case-studies/lionsgate-runway.md)
+    - [Naver - Webtoon](/market-research/case-studies/naver-webtoon.md)
+    - [Sony - Imageworks](/market-research/case-studies/sony-imageworks.md)
+    - [Ubisoft - Ghostwriter](/market-research/case-studies/ubisoft-ghostwriter.md)
