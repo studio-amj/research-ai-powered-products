@@ -3,11 +3,12 @@ marp: true
 title: Market Research Q1Y26 Work
 ---
 
-Gwin Lim @ **STUDIO AMJ**
 
-# 2nd meeting - '26 Work
-## Market Research
+
+# 2nd Meeting - '26 Work
+## `g-2: Market Research`
 > 2024 ~ 2026, 성공적으로 경제적 이득을 만든 프로덕션 수준 AI 적용 사례
+> Gwin Lim @ **STUDIO AMJ**
 
 ---
 
@@ -54,18 +55,17 @@ Gwin Lim @ **STUDIO AMJ**
 
 ---
 
-## Next step
+## 개발을 위한 다음 목표
 
-- AMJ 사내 pain-point 조사
-  - 언제?
-    - 조사 기간
-    - 보고 일시
-  - 어떻게?
-- 수집된 의견 바탕으로 경계가 분명한 **문제 정의**, **목표 설정**
-- 개발-사용-피드백 루프 주기 설계
-
----
-
-## POC demo
-
-[POC web app](https://localhost:8188)
+- g-5: 5번째 미팅 까지...
+  - g-5-1: AMJ 내재화 pain killer 개발 1 cycle 완주
+- g-4: 4번째 미팅 까지...
+  - g-4-1: 개발 주기 v1 설계
+    - AMJ 업무 pain-point 파악 -> 문제 정의 -> 목표 설정 -> 개발 -> 피드백
+  - g-4-2: 새로운 POC 또는 g-3-2 POC 개선하여 prototype 개발
+- g-3: 3번째 미팅 까지...
+  - g-3-1: 의견 수집/파악/공유 솔루션 구축
+    - g-4-1의 선행 과제
+    - 핵심가치: seamless, auto push/pull, dev-cycle opt.
+  - g-3-2: 새로운 POC 또는 g-2 POC 개선하여 prototype 개발
+    - [g-2 POC](https://localhost:8188)
