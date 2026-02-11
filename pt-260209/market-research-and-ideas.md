@@ -69,5 +69,3 @@ Gwin Lim @ **STUDIO AMJ**
 ## POC demo
 
 [POC web app](https://localhost:8188)
-
-
