@@ -54,14 +54,20 @@ Gwin Lim @ **STUDIO AMJ**
 
 ---
 
-## Next step 제안
+## Next step
 
-- AMJ 팀원 pain-point 조사
+- AMJ 사내 pain-point 조사
   - 언제?
     - 조사 기간
     - 보고 일시
   - 어떻게?
-  - 핵심 가치?
-    - 실용성?
-    - 빠른 개발?
-    - 낮은 실패 가능성?
+- 문제 정의, 목표 설정
+- 개발-사용-피드백 루프 주기 설계
+
+---
+
+## POC demo
+
+[POC web app](https://localhost:8188)
+
+
