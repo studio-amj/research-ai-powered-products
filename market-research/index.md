@@ -1,8 +1,8 @@
 # Market Research Index
 
-- created @ 20260209
-- written by Gwin Lim @ STUDIO AMJ
-  - with OpenAI Codex 5.3 xhigh
+- created at 20260209
+- written by OpenAI Codex 5.3 xhigh
+  - directed by Gwin Lim @ STUDIO AMJ
 
 ## TOC
 
